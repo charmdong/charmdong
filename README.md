@@ -1,19 +1,29 @@
-### Hi there 👋
-
-<div>
-  <h1 style="margin:0 auto;">Tech Stack</h1>  
-</div>
-
-<div style="width:100%;">
-  <div>
-    <img src="https://img.shields.io/badge/-java-important"/> <img src="https://img.shields.io/badge/-spring-red"/> <img src="https://img.shields.io/badge/-javascript-yellow"/> <img src="https://img.shields.io/badge/-HTML-green"/> <img src="https://img.shields.io/badge/-CSS-violet"/> <img src="https://img.shields.io/badge/-Oracle-orange"/> <img src="https://img.shields.io/badge/-MySQL-navy"/>
-  </div>
+<center> 
+  <h1>Donggun Chung</h1>
   
-  <div style="margin: 0 auto;">
-    <img src="https://img.shields.io/badge/-JPA-gray"/> <img src="https://img.shields.io/badge/-C-blue"/> <img src="https://img.shields.io/badge/-C++-blue"/> <img src="https://img.shields.io/badge/-Linux-black"/>
+<span style="font-size:30px; font-weight:bold;">⚒ Tech Stack ⚒</span>
 
-  </div>
-</div>
+<a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="border-radius:10%;"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" style="border-radius:10%;"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/C-A8B9cc?style=flat-square&logo=C&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" style="border-radius:10%;"/>
+
+<br/>
+<span style="font-size:30px; font-weight:bold;">🎾 About Me 💻</span>
+
+<a target="_blank" href="https://github.com/chungdk1993"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="border-radius:10%;"/></a>
+<a target="_blank" href="https://chungdk.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-00B336?style=flat-square&logoColor=white" style="border-radius:10%;"/></a>
+</center>
 
 
 <!--
