@@ -1,9 +1,12 @@
-<center> 
-  <h1>Donggun Chung</h1>
-  
-<span style="font-size:30px; font-weight:bold;">⚒ Tech Stack ⚒</span>
 
-<a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="border-radius:10%;"/></a>
+<h1 align="center">Donggun Chung</h1>
+
+
+<h3 align="center">⚒ Tech Stack ⚒</h3>
+<p align="center"> Techs that I've used at least once </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="border-radius:10%;"/>
@@ -17,13 +20,15 @@
 <img src="https://img.shields.io/badge/C-A8B9cc?style=flat-square&logo=C&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" style="border-radius:10%;"/>
+</p>
 
 <br/>
-<span style="font-size:30px; font-weight:bold;">🎾 About Me 💻</span>
-
+<h3 align="center">🎾 About Me 💻</h3>
+<p align="center">
 <a target="_blank" href="https://github.com/chungdk1993"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="border-radius:10%;"/></a>
 <a target="_blank" href="https://chungdk.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-00B336?style=flat-square&logoColor=white" style="border-radius:10%;"/></a>
-</center>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="border-radius:10%;"/></a>
+</p>
 
 
 <!--
