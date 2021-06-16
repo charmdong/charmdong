@@ -3,7 +3,7 @@
 
 
 <h3 align="center">⚒ Tech Stack ⚒</h3>
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Techs I've used and Techs I'm using </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="border-radius:10%;"/>
@@ -16,12 +16,18 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" style="border-radius:10%;"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/C-A8B9cc?style=flat-square&logo=C&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" style="border-radius:10%;"/>
 </p>
 
+<br/>
+<p align="center"> Techs I'm studying </p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logoColor=white" style="border-radius:10%;"/>
+</p>
+  
 <br/>
 <h3 align="center">🎾 About Me 💻</h3>
 <p align="center">
