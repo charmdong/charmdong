@@ -34,8 +34,8 @@
 <a target="_blank" href="https://chungdk.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-00B336?style=flat-square&logoColor=white" style="border-radius:10%;"/></a>
 <a target="_blank" href="https://www.notion.so/dkworld/a9f3e42a1bb14f3695427f28e7e5d8b5"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="border-radius:10%;"/></a><br/><br/>
   🧑🏻‍💻 Hyundai IT&E 2020.06 ~ <br/>
-  🤔  SSSAFY 3rd 2020.01 ~ 06<br/>
-  🌱  NTS Internship 2019.07 ~ 08<br/>
+  🤔 SSAFY 3rd 2020.01 ~ 06<br/>
+  🌱 NTS Internship 2019.07 ~ 08<br/>
 </p>
 
 
