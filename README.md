@@ -34,8 +34,8 @@
 <a target="_blank" href="https://www.notion.so/dkworld/a9f3e42a1bb14f3695427f28e7e5d8b5"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="border-radius:10%;"/></a><br/>
 </p>
 <p align="center">
-✓ Hyundai IT&E (2020.06 ~ )<br/>
-✓ SSAFY 3rd (2020.01 ~ 06)<br/>
-✓ N Tech Service Internship (2019.07 ~ 08)<br/>
-✓ Sejong.Univ - C&I Security (2013.03 ~ 2020.02)<br/>
+📍 Hyundai IT&E (2020.06 ~ )<br/>
+📍 SSAFY 3rd (2020.01 ~ 06)<br/>
+📍 N Tech Service Internship (2019.07 ~ 08)<br/>
+📍 Sejong.Univ - C&I Security (2013.03 ~ 2020.02)<br/>
 </p>
