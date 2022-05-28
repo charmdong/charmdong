@@ -1,7 +1,7 @@
 
 <h1 align="center"> Donggun Chung </h1>
 
-<h3 align="center">⚒ Tech Stack ⚒</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs I've used and Techs I'm using </p>
 
 <p align="center">
