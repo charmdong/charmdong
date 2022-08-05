@@ -28,7 +28,7 @@
 </p>
   
 <br/>
-<h3 align="center">About Me🧑🏻‍💻</h3>
+<h3 align="center">💪🏻 About Me🧑🏻‍💻</h3>
 <p align="center">
 <!--<a target="_blank" href="https://github.com/chungdk1993"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="border-radius:10%;"/></a>-->
 <a target="_blank" href="https://chungdk.tistory.com/"><img src="https://img.shields.io/badge/Blog-00B336?style=flat-square&logoColor=white" style="border-radius:10%;"/></a>
