@@ -22,7 +22,7 @@
 <br/>
 <p align="center"> Techs I'm studying </p>
 <p align="center">
-
+<img src="https://img.shields.io/badge/React-purple?style=flat-square&logo=React&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/AWS-yellow?style=flat-square&logo=AWS&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white" style="border-radius:10%;"/>
 </p>
